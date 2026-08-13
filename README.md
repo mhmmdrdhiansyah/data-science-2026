@@ -34,12 +34,11 @@ Repository ini berisi kumpulan notebook hasil praktikum Pertemuan 1-13, yang men
 | 5 | Pertemuan 5 | Probabilitas & Distribusi Statistik | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan5_muhammad_ardhiansyah_240401020092.ipynb) |
 | 6 | Pertemuan 6 | Uji Hipotesis & Korelasi | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan6_muhammad_ardhiansyah_240401020092.ipynb) |
 | 7 | Pertemuan 7 | Regresi Linear Sederhana | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan7_muhammad_ardhiansyah_240401020092.ipynb) |
-| 8 | Pertemuan 8 | (UTS) | — |
-| 9 | Pertemuan 9 | Klasifikasi: Logistic Regression, Decision Tree & Metrik Evaluasi | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/Pertemuan9_Muhammad_Ardhiansyah_240401020092.ipynb) |
-| 10 | Pertemuan 10 | Ensemble Learning (Random Forest) & Imbalanced Dataset (Churn Prediction) | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan10_muhammad_ardhiansyah_240401020092.ipynb) |
-| 11 | Pertemuan 11 | Unsupervised Learning: K-Means & Hierarchical Clustering | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan11_muhammad_ardhiansyah_240401020092.ipynb) |
-| 12 | Pertemuan 12 | Association Rules (Apriori) & Sistem Rekomendasi | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan12_muhammad_ardhiansyah_240401020092.ipynb) |
-| 13 | Pertemuan 13 | Deep Learning & NLP Dasar (Neural Network + TF-IDF) | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan13_muhammad_ardhiansyah_240401020092.ipynb) |
+| 8 | Pertemuan 9 | Klasifikasi: Logistic Regression, Decision Tree & Metrik Evaluasi | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/Pertemuan9_Muhammad_Ardhiansyah_240401020092.ipynb) |
+| 9 | Pertemuan 10 | Ensemble Learning (Random Forest) & Imbalanced Dataset (Churn Prediction) | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan10_muhammad_ardhiansyah_240401020092.ipynb) |
+| 10 | Pertemuan 11 | Unsupervised Learning: K-Means & Hierarchical Clustering | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan11_muhammad_ardhiansyah_240401020092.ipynb) |
+| 11 | Pertemuan 12 | Association Rules (Apriori) & Sistem Rekomendasi | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan12_muhammad_ardhiansyah_240401020092.ipynb) |
+| 12 | Pertemuan 13 | Deep Learning & NLP Dasar (Neural Network + TF-IDF) | [📓 Buka Notebook](https://github.com/mhmmdrdhiansyah/data-science-2026/blob/main/pertemuan13_muhammad_ardhiansyah_240401020092.ipynb) |
 
 ---
 
